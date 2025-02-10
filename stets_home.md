@@ -22,9 +22,8 @@
    - Ссылка на артефакт:</br>https://drive.google.com/file/d/1J0gTCYaY8HOj96SiCUW7E9FLMrBFawvl/view?usp=sharing
  
 - Прототип приложения
-   - Разработана дизайн-система приложения;
    - Отображен MVP приложения в виде сценариев взаимодействия пользователя с приложением;
-   - Ссылка на артефакт: https://www.figma.com/proto/VDQ611Nt7mT3n8jF5oUK3E/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D1%82%D0%B8%D0%BF-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F-Stets-Home?node-id=4-581&t=np2KEaCsaGwhvxHn-1
+   - Ссылка на артефакт: https://figma.fun/AbPjlB
    - 
      
   
