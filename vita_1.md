@@ -8,18 +8,18 @@
 
 **Артефакты**
 
-- Диаграмма AS-IS в нотации BPMN
-  - с
+- Диаграмма AS-IS в нотации BPMN:
+  - Отображен процесс записи на прием к врачу по телефону через администратора клиники;
+  - Смоделирован процесс приема пациента врачем клиники;
   - Ссылка на артефакт: https://app.diagrams.net/#G1lpqTFSgpH6EQG0t4v8GvGDTgNc3PPCWg#%7B%22pageId%22%3A%22326YfQ6A8uz0iwaCt7I8%22%7D
-    
-- Диаграмма TO-BE в нотации BPMN;
-  https://app.diagrams.net/#G1lpqTFSgpH6EQG0t4v8GvGDTgNc3PPCWg#%7B%22pageId%22%3A%22hYoqlKqIXTMq-99qZDfW%22%7D
 
-- Диаграмма состояний в нотации UML
-https://app.diagrams.net/#G1lpqTFSgpH6EQG0t4v8GvGDTgNc3PPCWg#%7B%22pageId%22%3A%22anxewemBDnC__M29I5zN%22%7D
+- Диаграмма состояний в нотации UML:
+  - Отображен жизненный цикл объектов системы при записи на прием к врачу по телефону через администратора клиники: 
+  - Ссылка на артефакт: https://app.diagrams.net/#G1lpqTFSgpH6EQG0t4v8GvGDTgNc3PPCWg#%7B%22pageId%22%3A%22anxewemBDnC__M29I5zN%22%7D
     
+- Диаграмма TO-BE в нотации BPMN:
+  - Смоделирован автоматизированный процесс записи на прием к врачу через приложение сети клиник;
+  - Ссылка на артефакт: https://app.diagrams.net/#G1lpqTFSgpH6EQG0t4v8GvGDTgNc3PPCWg#%7B%22pageId%22%3A%22hYoqlKqIXTMq-99qZDfW%22%7D
+
 **Стек**
 - Draw.io
-- Figma
-- Miro
-- Google Docs
