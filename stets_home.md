@@ -17,7 +17,7 @@
    - Ссылка на артефакт:</br>https://miro.com/app/board/uXjVLLv6fas=/
 
 - Диаграмма потоков данных, ER-диаграмма:
-   - Смоделированы процессы в виде диаграммы потоков данных контекстного и логического уровня;
+   - Смоделированы процессы в виде диаграмм потоков данных контекстного и логического уровня;
    - Смоделированы данные в виде ER-диаграммы в нотации Crow’s foot логического уровня;
    - Ссылка на артефакты:</br>https://app.diagrams.net/#G1J0gTCYaY8HOj96SiCUW7E9FLMrBFawvl#%7B%22pageId%22%3A%22_tdEg_UheLIWbP_wuzgK%22%7D
  
@@ -31,7 +31,7 @@
 
 - Словарь данных:
    - Разработан словарь данных приложения;
-   - Сслыка на артефакт:</br>https://docs.google.com/document/d/1BTeuz9WOdTBD1273e5emAxN2Y1Tcb6uDQXifUpn0ljs/edit?usp=sharing
+   - Ссылка на артефакт:</br>https://docs.google.com/document/d/1BTeuz9WOdTBD1273e5emAxN2Y1Tcb6uDQXifUpn0ljs/edit?usp=sharing
   
 **Стек**
 - Draw.io
