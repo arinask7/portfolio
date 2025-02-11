@@ -11,24 +11,27 @@
 
 **Артефакты**
 
-- Карта пользовательских историй
+- Карта пользовательских историй:
    - Сформированы MVP и бэклог приложения;
    - Прописаны критерии приемки;
    - Ссылка на артефакт:</br>https://miro.com/app/board/uXjVLLv6fas=/
 
-- Диаграмма потоков данных, ER-диаграмма
+- Диаграмма потоков данных, ER-диаграмма:
    - Смоделированы процессы в виде диаграммы потоков данных контекстного и логического уровня;
    - Смоделированы данные в виде ER-диаграммы в нотации Crow’s foot логического уровня;
    - Ссылка на артефакт:</br>https://drive.google.com/file/d/1J0gTCYaY8HOj96SiCUW7E9FLMrBFawvl/view?usp=sharing
  
-- Прототип приложения
+- Прототип приложения:
    - Отображен MVP приложения;
    - Ссылка на артефакт:</br>https://figma.fun/ThTPNO
 
 - ПМИ приложения:
    - Разработана программа и методика испытаний для MVP приложения:
-   - Ссылка на артефакт:</br>https://docs.google.com/document/d/1zJjpFBo99MKAtC8glnm6MsVkcf0bhhXJ6xGnpB2yQNI/edit?tab=t.0
-     
+   - Ссылка на артефакт:</br>https://docs.google.com/document/d/1zJjpFBo99MKAtC8glnm6MsVkcf0bhhXJ6xGnpB2yQNI/edit?usp=sharing
+
+- Словарь данных:
+   - Разработан словарь данных, включающий в себя элемент данных, описание элемента, структуру или тип данных, длину и значение;
+   - Сслыка на артефакт:</br>https://docs.google.com/document/d/1BTeuz9WOdTBD1273e5emAxN2Y1Tcb6uDQXifUpn0ljs/edit?usp=sharing
   
 
 **Стек**
