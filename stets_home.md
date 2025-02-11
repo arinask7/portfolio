@@ -19,7 +19,7 @@
 - Диаграмма потоков данных, ER-диаграмма:
    - Смоделированы процессы в виде диаграммы потоков данных контекстного и логического уровня;
    - Смоделированы данные в виде ER-диаграммы в нотации Crow’s foot логического уровня;
-   - Ссылка на артефакт:</br>https://drive.google.com/file/d/1J0gTCYaY8HOj96SiCUW7E9FLMrBFawvl/view?usp=sharing
+   - Ссылка на артефакты:</br>https://drive.google.com/file/d/1J0gTCYaY8HOj96SiCUW7E9FLMrBFawvl/view?usp=sharing
  
 - Прототип приложения:
    - Отображен MVP приложения;
