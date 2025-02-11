@@ -22,13 +22,14 @@
    - Ссылка на артефакт:</br>https://drive.google.com/file/d/1J0gTCYaY8HOj96SiCUW7E9FLMrBFawvl/view?usp=sharing
  
 - Прототип приложения
-   - Отображен MVP приложения в виде сценариев взаимодействия пользователя с приложением;
-   - Ссылка на артефакт: https://figma.fun/ThTPNO
-   - 
+   - Отображен MVP приложения;
+   - Ссылка на артефакт:</br>https://figma.fun/ThTPNO
+
+- ПМИ приложения:
+   - Разработана программа и методика испытаний для MVP приложения:
+   - Ссылка на артефакт:</br>https://docs.google.com/document/d/1zJjpFBo99MKAtC8glnm6MsVkcf0bhhXJ6xGnpB2yQNI/edit?tab=t.0
      
   
-
-
 
 **Стек**
 - Draw.io
