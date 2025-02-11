@@ -30,10 +30,9 @@
    - Ссылка на артефакт:</br>https://docs.google.com/document/d/1zJjpFBo99MKAtC8glnm6MsVkcf0bhhXJ6xGnpB2yQNI/edit?usp=sharing
 
 - Словарь данных:
-   - Разработан словарь данных, включающий в себя элемент данных, описание элемента, структуру или тип данных, длину и значение;
+   - Разработан словарь данных приложения;
    - Сслыка на артефакт:</br>https://docs.google.com/document/d/1BTeuz9WOdTBD1273e5emAxN2Y1Tcb6uDQXifUpn0ljs/edit?usp=sharing
   
-
 **Стек**
 - Draw.io
 - Figma
