@@ -15,6 +15,8 @@
 
 - [Диаграмма состояний](https://github.com/arinask7/portfolio/tree/main/сash/state_machine.pdf)
 
+- [Диаграмма классов](https://github.com/arinask7/portfolio/tree/main/сash/class.pdf)
+
 
 
 
