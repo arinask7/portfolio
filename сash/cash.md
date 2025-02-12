@@ -8,7 +8,7 @@
 
 **Артефакты**
 
-- Графический Use Case:
+- [Use Case графический](https://github.com/arinask7/portfolio/tree/main/cash/use_case.pdf)
 
    - Ссылка на артефакт:</br>https://miro.com/app/board/uXjVKzXtSts=/
 
