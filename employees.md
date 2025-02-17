@@ -19,7 +19,7 @@
 
 **Артефакты**
 
-- ER-диаграмма физического уровня
+- [ER-диаграмма физического уровня](https://github.com/arinask7/portfolio/tree/main/er_diagram.png)
  
 **Стек**
 - DrawSQL
