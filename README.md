@@ -41,11 +41,10 @@
 |3|[Моделирование процессов для сети клиник Вита](https://github.com/arinask7/portfolio/tree/main/vita_1.md)|Составлены диаграммы:</br>-AS-IS в нотации BPMN;</br>-TO-BE в нотации BPMN;</br>-Состояний в нотации UML.|завершен|Draw.io| 
 |4|[Разработка артефактов к дополнительному функционалу приложения сети клиник Вита](https://github.com/arinask7/portfolio/tree/main/vita_2.md)|-Проанализировано интервью с заинтересованными лицами.</br>-Задокументированы требования в виде USM.</br>-Смоделированы процессы с использованием DFD.</br>-Разработан прототип.|завершен|Draw.io</br>Figma</br>Miro
 
-## Сертификаты
-- [Аналитик данных](https://disk.yandex.ru/i/k8ZLHXZzivXPKQ). Яндекс Практикум, 2024
+## Дипломы и сертификаты
+- [Аналитик данных](). Диплом Яндекс Практикум, 2024
 
 ## Контакты
-- [LinkedIn](https://www.linkedin.com/in/aksyutenko)
-- [Telegram](https://t.me/aksyutenko)
+- [Telegram](https://t.me/fishaa17)
 
 ## Резюме
