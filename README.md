@@ -52,4 +52,3 @@
 ## Контакты
 - [Telegram](https://t.me/fishaa17)
 
-## Резюме
