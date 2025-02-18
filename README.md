@@ -43,7 +43,7 @@
 
 ## Дипломы и сертификаты
 - [Системный анализ] (). Стажировка в компании Aston, 2024
-- [Системный аналитик буткемп](https://disk.yandex.ru/i/LMHVG7a3RtDGjw). Курс от платформы Яндекс Практикум, 2024
+- [Системный аналитик буткемп](https://disk.yandex.ru/i/LMHVG7a3RtDGjw). Диплом Яндекс Практикум, 2024
 - [Системный анализ](https://disk.yandex.ru/i/DnIzAnAU4HFeQQ). Интенсив от компании Aston, 2024
 - [System Analysis](https://disk.yandex.ru/i/Gh6N19_54MhBLg). Курс от платфомы Moodle, 2024
 - [SQL для Аналитика](https://disk.yandex.ru/i/6PFfhpe9r_0UVQ). Курс от платформы Moodle, 2024
