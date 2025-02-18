@@ -17,7 +17,7 @@
   - Описана валидация входных параметров;
   - Представлены примеры запросов и ответов;
   - Описаны схемы данных.
-  - Ссылка на артефакт:</br>https://app.swaggerhub.com/apis/ARSKUPCHENKO/Credit/1.0.0
+  - Ссылка на артефакт:</br>https://app.swaggerhub.com/apis-docs/ARSKUPCHENKO/Credit/1.0.0
  
 **Стек**
 - SwaggerHub
