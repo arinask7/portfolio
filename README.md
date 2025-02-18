@@ -45,9 +45,10 @@
 - [Системный аналитик](https://disk.yandex.ru/i/LMHVG7a3RtDGjw). Курс от Яндекс Практикум, 2024
 - [Системный анализ](https://disk.yandex.ru/i/DnIzAnAU4HFeQQ). Интенсив от компании Aston, 2024
 - [Системный анализ] (). Стажировка в компании Aston, 2024
+- [Системный анализ](https://disk.yandex.ru/i/Gh6N19_54MhBLg). Курс от платфомы Moodle, 2024
+- [SQL для Аналитика](https://disk.yandex.ru/i/6PFfhpe9r_0UVQ). Курс от платформы Moodle, 2024
+- [Документирование REST API](https://disk.yandex.ru/i/j_ck74jKUx24Gw). Курс от платформы Moodle, 2024
 
-
-  
 ## Контакты
 - [Telegram](https://t.me/fishaa17)
 
